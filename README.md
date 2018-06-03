@@ -5,3 +5,5 @@ Indice para las presentaciones de los alumnos duales de DAM de la convocatoria d
 * [Amo Olsson, Christian](https://github.com/christianraulamo/Exposicion-Viewnext)  
 * [Fernández Nadales, Andrés](https://github.com/andresfernandeznad/DXC.technology---ANDRES-FERNANDEZ-NADALES)
 * [García Ruiz, Cintia](https://github.com/cyntigr/PROPERLY-CINTIA_GARCIA_RUIZ)
+* [Rebollo Benítez, Salvador](https://github.com/SalvaRebollo/DEKRA-Salvador-Rebollo-Benitez)
+
