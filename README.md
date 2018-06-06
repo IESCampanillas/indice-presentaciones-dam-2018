@@ -8,5 +8,6 @@ Indice para las presentaciones de los alumnos duales de DAM de la convocatoria d
 * [García Fernández, Guillermo](https://github.com/GuillermoGarcia/presentacion-dam-2018)
 * [García Ruiz, Cintia](https://github.com/cyntigr/PROPERLY-CINTIA_GARCIA_RUIZ)
 * [Rebollo Benítez, Salvador](https://github.com/SalvaRebollo/DEKRA-Salvador-Rebollo-Benitez)
+* [Vargas Galán,Jesúsl](https://github.com/jesusvargasgalan/VIEWNEXT-JESUS-VARGAS)
 * [Juan David Villena Gil](https://github.com/juandavidvillena/Presentacion)
 
