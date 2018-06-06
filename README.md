@@ -8,6 +8,7 @@ Indice para las presentaciones de los alumnos duales de DAM de la convocatoria d
 * [Fernández Nadales, Andrés](https://github.com/andresfernandeznad/DXC.technology---ANDRES-FERNANDEZ-NADALES)
 * [García Fernández, Guillermo](https://github.com/GuillermoGarcia/presentacion-dam-2018)
 * [García Ruiz, Cintia](https://github.com/cyntigr/PROPERLY-CINTIA_GARCIA_RUIZ)
+* [Matabuena Berdugo, Rocío](https://github.com/rociomatabuenaberdugo/presentacion-1a-formacion-dual-CGI)
 * [Rebollo Benítez, Salvador](https://github.com/SalvaRebollo/DEKRA-Salvador-Rebollo-Benitez)
 * [Ruiz Mostazo, José Antonio](https://github.com/joseantonioruizmostazo/Viewnext-JoseAntonioRuizMostazo)
 * [Vargas Galán,Jesúsl](https://github.com/jesusvargasgalan/VIEWNEXT-JESUS-VARGAS)
